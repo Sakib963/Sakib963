@@ -5,3 +5,4 @@
 - Along with these, In previous months I learned "How to write test case"
 - In QA, I'm trying to learn how to automate testing using Selenium.
 - You can reach me at abdullahnazmussakib@gmail.com
+- BTW, You can look my portfolio website [here]([url](https://abdullahnazmussakib.com/)).
