@@ -1,5 +1,7 @@
 - Hi, I’m Abdullah Nazmus Sakib
-- I’m interested in Android Development and Web Designing
--  I’m currently learning Android Development using Java and basic web designing
--  I’m looking to collaborate on android projects
--  You can reach me at abdullahnazmussakib@gmail.com
+- I’m interested in Web Development and QA Process
+- In Web Development I learned HTML, CSS, Bootstrap and TailWind.
+- Now I'm learning JavaScript.
+- Along with these, In previous months I learned "How to write test case"
+- In QA, I'm trying to learn how to automate testing using Selenium.
+- You can reach me at abdullahnazmussakib@gmail.com
