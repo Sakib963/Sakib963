@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib963&label=Profile%20views&color=0e75b6&style=flat" alt="sakib963" /> </p>
 
-- 🔭 I’m currently working on **Bistro Boss**
+- 🔭 I’m currently learning **NextJS**
 
 - 🌱 I’m currently learning **Complete Web Development With Jhankar Mahbub**
 
