@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Sakib963/bistro-boss-server/assets/66853064/51508d0e-6e5d-47bb-892c-433205f28283)](https://github.com/Sakib963)
 <h1 align="center">Hi 👋, I'm Abdullah Nazmus Sakib</h1>
 <h3 align="center">Software Engineer dedicated to building impactful web applications with a strong focus on user satisfaction. From Dhaka, Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/709676fa-386e-4684-b734-2a726fd155c8">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/bb95c27c-6ddf-4310-91ee-8d1ea8140517">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib963&label=Profile%20views&color=0e75b6&style=flat" alt="sakib963" /> </p>
 
