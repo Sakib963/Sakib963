@@ -63,14 +63,15 @@ Repository
 
 ## Engineering Interests
 
-- System design
-- Backend architecture
-- API design
-- Data modeling
-- Scalable web applications
+| System Design | Backend Architecture | API Design | Data Modeling | UI/UX Engineering | Developer Experience | Scalable Systems |
+|---------------|---------------------|-----------|--------------|------------------|---------------------|------------------|
 
 ---
+## Currently Exploring
 
+- Advanced Angular architecture
+- Monorepo tooling (Nx)
+- Backend system design patterns
 # 📊 GitHub Stats
 
 <p align="center">
