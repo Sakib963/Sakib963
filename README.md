@@ -1,89 +1,101 @@
 <p align="center">
-<img src="https://github.com/Sakib963/bistro-boss-server/assets/66853064/51508d0e-6e5d-47bb-892c-433205f28283"/>
+  <img src="https://github.com/Sakib963/bistro-boss-server/assets/66853064/51508d0e-6e5d-47bb-892c-433205f28283" alt="Abdullah Nazmus Sakib"/>
 </p>
 
-<h1 align="center">Abdullah Nazmus Sakib</h1>
-<p align="center">
-Dhaka, Bangladesh • Angular • Node.js • PostgreSQL
-</p>
-
-<p align="center">
-<a href="mailto:abdullahnazmussakib@gmail.com">Email</a> |
-<a href="https://www.linkedin.com/in/abdullah-nazmus-sakib/">LinkedIn</a> |
-<a href="https://github.com/Sakib963">GitHub</a>
-</p>
-
----
-
-## About
-
-I’m a Software Engineer currently working at **Celloscope Ltd**, building enterprise web applications used in operational business systems.
-
-My work focuses on designing maintainable web applications using **Angular**, **Node.js**, and **PostgreSQL**, while collaborating with teams to deliver reliable production software.
-
-
----
-
-## Work Experience
-
-**Junior Software Engineer**  
-Celloscope Ltd - Sep 2023 to Present
-
-- Building frontend features using **Angular**
-- Developing backend APIs using **Node.js / Hapi.js**
-- Working with **PostgreSQL** and enterprise data systems
-- Implementing new features and improving application performance
-- Writing clean and maintainable production code
-
----
-
-## Featured Project
-
-### StockFlow
-
-**Inventory • Orders • Sales**
-
-StockFlow is built for business owners who sell from shops, Facebook, WhatsApp, or courier delivery and want one clear system instead of **Excel, notebooks, and memory**.
-
-Live Demo  
-[https://sakib963.github.io/stock-flow-web/](https://sakib963.github.io/stock-flow-web/)
-
-Repository  
-[https://github.com/Sakib963/stock-flow-web](https://github.com/Sakib963/stock-flow-web)
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,postgres,git,github,figma,vscode,docker" height="30"/>
-</p>
-
----
-
-## Engineering Interests
-
-| System Design | Backend Architecture | API Design | Data Modeling | UI/UX Engineering | Developer Experience | Scalable Systems |
-|---------------|---------------------|-----------|--------------|------------------|---------------------|------------------|
-
----
-## Currently Exploring
-
-- Advanced Angular architecture
-- Monorepo tooling (Nx)
-- Backend system design patterns
-# 📊 GitHub Stats
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hello%2C+there!+%F0%9F%91%8B;I'm+Abdullah+Nazmus+Sakib;Software+Engineer+based+in+Dhaka" alt="Typing SVG"/>
+  </a>
+</h1>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sakib963&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib963&layout=compact&theme=tokyonight"/>
-
+  <strong>Software Engineer | Building enterprise web systems with Angular, Node.js & PostgreSQL | Writing maintainable code that holds up in production | Curious about system design, developer experience, and the small details that make software feel right</strong>
 </p>
 
----
+<br/>
 
 <p align="center">
-Always learning, always building.
+  <a href="mailto:abdullahnazmussakib@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-nazmus-sakib/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Sakib963"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/-Open%20to%20Collaboration-22C55E?style=for-the-badge&logo=Handshake&logoColor=white" alt="Open to Collaboration"/>
+  <img src="https://img.shields.io/badge/-Based%20in%20Dhaka-8B5CF6?style=for-the-badge&logo=GoogleMaps&logoColor=white" alt="Based in Dhaka"/>
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+#### <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand.png" width="22"/> &nbsp; A Few Things About Me
+
+<img src="https://img.icons8.com/fluency/12/code.png"/> &nbsp; Currently shipping production features with **Angular, Node.js (Hapi.js), and PostgreSQL**
+
+<img src="https://img.icons8.com/fluency/12/company.png"/> &nbsp; Building enterprise and government-scale systems at **Celloscope Ltd**
+
+<img src="https://img.icons8.com/fluency/12/sprout.png"/> &nbsp; Currently exploring **Nx monorepos, system design, and Angular at scale**
+
+<img src="https://img.icons8.com/fluency/12/new-post.png"/> &nbsp; Reach me at **abdullahnazmussakib@gmail.com**
+
+<br/>
+
+#### <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Activities/Sparkles.png" width="22"/> &nbsp; Things I Care About
+
+<img src="https://img.icons8.com/fluency/12/source-code.png"/> &nbsp; Code the next person can read without asking
+
+<img src="https://img.icons8.com/fluency/12/design.png"/> &nbsp; Interfaces that respect the user's time
+
+<img src="https://img.icons8.com/fluency/12/api.png"/> &nbsp; Clean API contracts and honest data models
+
+<img src="https://img.icons8.com/fluency/12/coffee-to-go.png"/> &nbsp; Quiet mornings, long focus sessions, and the satisfaction of shipping
+
+</td>
+<td valign="middle" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Sakib963/Sakib963/main/assets/coding.png" alt="coding illustration" width="320"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">🧰 &nbsp; Languages, Frameworks & Tools &nbsp; 🧰</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,postgres,docker,nextjs,tailwind,git,github,figma,vscode&perline=12" />
+</p>
+
+<br/>
+
+```ts
+
+@Injectable({ providedIn: 'root' })
+export class Sakib {
+  readonly role         = 'Software Engineer @ Celloscope Ltd';
+  readonly stack        = ['Angular', 'Next.js', 'TypeScript', 'Node.js', 'Hapi.js', 'PostgreSQL', 'Oracle'];
+  readonly domains      = ['enterprise applications', 'government systems', 'fintech'];
+  readonly focus        = ['maintainable systems', 'clear data flow', 'practical API design'];
+  readonly exploring    = ['Nx monorepos', 'system design', 'scaling Angular applications'];
+  readonly belief       = 'small details are the product';
+}
+```
+
+<br/>
+
+<h2 align="center">📈 &nbsp; The Stats Wall &nbsp; 📈</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sakib963&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Always learning. Always building.</i>
 </p>
