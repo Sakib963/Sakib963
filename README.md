@@ -89,15 +89,6 @@ export class Sakib {
 ```
 
 <br/>
-
-<h2 align="center">📈 &nbsp; The Stats Wall &nbsp; 📈</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakib963&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
-</p>
-
 <br/>
 
 <p align="center">
