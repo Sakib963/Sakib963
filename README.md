@@ -20,9 +20,16 @@
 
 ### About
 
-- Software Engineer at **Celloscope Ltd**. Rebuilding internet banking portals in Angular, and before that, government systems for the Microcredit Regulatory Authority and the National Board of Revenue
+- Software Engineer at **Celloscope Ltd**, 3+ years on banking and government systems
 - Exploring Nx monorepos, system design, and Angular at scale
 - I care about code the next person can read without asking, and interfaces that respect the user's time
+
+### What I've worked on
+
+- **Internet banking portals.** Rebuilt the admin and onboarding portals in Angular: maker-checker approvals, role-based permissions, and a config-driven layer where 60+ list pages and 30+ reports run on shared components. The same codebase runs for another bank by changing config.
+- **Office Management System, Microcredit Regulatory Authority.** Owned the HRM and employee self-service modules of a 12-module system. Migrated data from two legacy systems across three offices without duplicates, and built leave management on government service rules.
+- **e-Advance Ruling, National Board of Revenue.** A USAID-funded system that moves customs advance rulings from paper to online, from application to ruling letter. Passed UAT.
+- **How I work.** AI-driven development: designs in Claude Design, built with Claude Code agents and skills.
 
 ### Selected work
 
